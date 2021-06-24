@@ -1,0 +1,12 @@
+.imageCSS{
+    display: flex;
+flex-flow: column;
+height: 100vh;
+overflow: auto;
+background: url('../Image/background2.jpg') no-repeat center center fixed;
+ -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+ 
+}
